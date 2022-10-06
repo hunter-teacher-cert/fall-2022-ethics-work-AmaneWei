@@ -2,7 +2,7 @@ import re
 
 def find_name(line):
     # random
-    pattern ="Mr|Ms|Mrs\.?s[A-Z]\w"
+    pattern ="Mr|Ms|Dr|Mrs\.?s[A-Z]\w"
     result = re.findall(pattern,line)
     # FirstName and LastName
     pattern = r"(\w+) (\w+)[^\.]"
