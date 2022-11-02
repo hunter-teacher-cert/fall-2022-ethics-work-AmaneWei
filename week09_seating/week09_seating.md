@@ -1,0 +1,5 @@
+Like the original coding algorithm, I would have all the people who bought the Economy Plus to board and sit in their choosen seat. If there is a free seat next to them, and this also depends on how many of the Economy Plus passengers are seated in a row, assign regular economy passengers that fits. So if there is a row of 3 seats, and 1 eco plus sits there, find a pair of regular eco to fit in that row.
+If there is some attachment to the ticket that states that the passenger is disabled in some way, I would also give them priority and seat them next.
+Then I would seat regular eco passengers that have the largest group and work my way down. (Kinda like tetris-ing passengers)
+
+This doesn't really help passengers with disabilities as we have no way to note who has it and who doesn't. This only really helps large groups stay together such as families.
